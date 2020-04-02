@@ -1,2 +1,2 @@
-# 851653160-qq.com
+# 架构课使用springboot重构jpetstore
 SpringBoot JpetStore
