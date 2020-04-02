@@ -1,2 +1,0 @@
-# 架构课使用springboot重构jpetstore
-SpringBoot JpetStore
